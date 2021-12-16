@@ -1,0 +1,336 @@
+html{    
+    background: url('/istockphoto-1069093684-612x612.jpg') no-repeat center fixed;     
+    background-size: cover;
+    opacity: 0.9;
+}
+/* .img{
+    width: 100%;
+    transform: scale(1.05); */
+/* } */
+h1{
+    position: absolute;
+    top: 0;
+    left: 2%;
+    color:black;
+    background-color:whitesmoke;
+    opacity: 0.8;
+    font-size: 60px;
+    font-weight: bold;
+    border: 1px;
+    border-radius: 10px;
+}
+/* .h21{
+    position: absolute;
+    top: 10%;
+    left: 28%;
+    color: black;
+    font-size: 60px;
+    font-weight: bold;
+} */
+.h22{
+    position: absolute;
+    top: 10%;
+    left: 2%;
+    color: black;
+    font-size: 60px;
+    font-weight: bold;
+    color:black;
+    background-color:whitesmoke;
+    opacity: 0.8;
+    border: 1px;
+    border-radius: 10px;
+}
+.name{
+    position: absolute;
+    top: 28%;
+    left: 10px;
+    color: black;
+    font-size: 30px;
+    font-weight:bolder;
+    color:whitesmoke;
+    background-color:black;
+    
+}
+.name1{
+    position: absolute;
+    top: 35%;
+    left: 10px;
+    color: black;
+    font-size: 30px;
+    font-weight:bolder;
+    color:whitesmoke;
+    background-color:black;
+    /* opacity: 0.7;    */
+}
+.i1{
+    position: absolute;
+    top: 28%;
+    left: 11%;
+    transform: scale(1.05);
+    border: 4px solid black;
+    border-radius: 10px;
+    padding: 4px;
+    margin-left: 10px;
+    font-weight:bolder;
+    background-color: black;
+    opacity: 0.5;
+    color: whitesmoke;
+    font-size: 20px;
+}
+.i2{
+    position: absolute;
+    top: 35%;
+    left: 11%;
+    transform: scale(1.05);
+    border: 4px solid black;
+    border-radius: 10px;
+    padding: 4px;
+    margin-left: 10px;
+    font-weight:bolder;
+    background-color: black;
+    opacity: 0.5;
+    color: whitesmoke;
+    font-size: 20px; 
+}
+.run{
+    position: absolute;
+    top: 43%;
+    left: 10px;
+    color:black;
+    font-size: 30px;
+    font-weight:bolder;
+    color:whitesmoke;
+    background-color:black;
+    /* opacity: 0.7; */
+}
+.k{
+    position: absolute;
+    top: 43%;
+    left: 16.5%;
+    color: whitesmoke;
+    font-size: 30px; 
+    font-weight:bolder;
+    background-color: black;
+    opacity: 0.5;
+}
+.l{
+    position: absolute;
+    top: 47%;
+    left: 16.5%;
+    color: whitesmoke;
+    font-size: 30px; 
+    font-weight:bolder;
+    background-color: black;
+    opacity: 0.5;
+}
+.m{
+    position: absolute;
+    top: 51%;
+    left: 16.5%;
+    color: whitesmoke;
+    font-size: 30px; 
+    font-weight:bolder;
+    background-color: black;
+    opacity: 0.5;
+}
+.n{
+    position: absolute;
+    top: 55%;
+    left: 16.5%;
+    color: whitesmoke;
+    font-size: 30px; 
+    font-weight:bolder;
+    background-color: black;
+    opacity: 0.5;
+}
+.date{
+    position: absolute;
+    top: 59%;
+    left: 10px;
+    color: black;
+    font-size: 30px;
+    font-weight:bolder; 
+    color:whitesmoke;
+    background-color:black;
+    /* opacity: 0.7; */
+}
+.jan{
+    position: absolute;
+    top: 59%;
+    left: 17%;
+    color: whitesmoke;
+    font-size: 30px; 
+    font-weight:bolder;
+    background-color: black;
+    opacity: 0.5;
+}
+.f{
+    position: absolute;
+    top: 63%;
+    left: 17%;
+    color: whitesmoke;
+    font-size: 30px; 
+    font-weight:bolder;
+    background-color: black;
+    opacity: 0.5;
+}
+.g{
+    position: absolute;
+    top: 67%;
+    left: 17%;
+    color: whitesmoke;
+    font-size: 30px; 
+    font-weight:bolder;
+    background-color: black;
+    opacity: 0.5;
+}
+.h{
+    position: absolute;
+    top: 71%;
+    left: 17%;
+    color: whitesmoke;
+    font-size: 30px; 
+    font-weight:bolder;
+    background-color: black;
+    opacity: 0.5;
+}
+.email{
+    position: absolute;
+    top: 76.5%;
+    left: 10px;
+    color: black;
+    font-size: 30px; 
+    font-weight:bolder;
+    color:whitesmoke;
+    background-color:black;
+    /* opacity: 0.7; */
+} 
+.mail{
+    transform: scale(1.05);
+    border: 4px solid black;
+    border-radius: 10px;
+    padding: 4px;
+    margin-left: 10px;
+    position: absolute;
+    top:76% ;
+    left:9%;
+    font-weight:bolder;
+    background-color: black;
+    opacity: 0.5;
+    color: whitesmoke;
+    font-size: 25px;
+}
+.age{
+    position: absolute;
+    top: 84%;
+    left: 10px;
+    color: black;
+    font-size: 30px; 
+    font-weight:bolder;
+    color:whitesmoke;
+    background-color:black;
+    /* opacity: 0.7; */
+}
+.no{
+    transform: scale(1.05);
+    border: 4px solid black;
+    border-radius: 10px;
+    padding: 4px;
+    margin-left: 10px;
+    position: absolute;
+    top:83% ;
+    left:9%;
+    font-weight:bolder;
+    background-color: black;
+    opacity: 0.5;
+    color: whitesmoke;
+    font-size: 30px;
+}
+.p{
+    position: absolute;
+    top: 89%;
+    left: 1%;
+    color: black;
+    font-size: 30px;
+    font-weight:bolder;  
+}
+.reg{
+    position: absolute;
+    top: 93%;
+    left: 1%;
+    color: black;
+    font-size: 30px;
+    border: 4px solid black;
+    border-radius: 10px;
+    background-color: black;
+    color: whitesmoke;
+    font-weight:bolder;
+}
+
+
+.i1:hover{
+    background-color: whitesmoke;
+    opacity: 1;
+    color: black;
+}
+.i2:hover{
+    background-color: whitesmoke;
+    opacity: 1;
+    color: black;
+}
+.k:hover{
+    background-color: whitesmoke;
+    opacity: 1;
+    color: black;
+}
+.l:hover{
+    background-color: whitesmoke;
+    opacity: 1;
+    color: black;
+}
+.m:hover{
+    background-color: whitesmoke;
+    opacity: 1;
+    color: black;
+}
+.n:hover{
+    background-color: whitesmoke;
+    opacity: 1;
+    color: black;
+}
+.jan:hover{
+    background-color: whitesmoke;
+    opacity: 1;
+    color: black;
+}
+.f:hover{
+    background-color: whitesmoke;
+    opacity: 1;
+    color: black;
+}
+.g:hover{
+    background-color: whitesmoke;
+    opacity: 1;
+    color: black;
+}
+.h:hover{
+    background-color: whitesmoke;
+    opacity: 1;
+    color: black;
+}
+.mail:hover{
+    background-color: whitesmoke;
+    opacity: 1;
+    color: black;
+}
+.no:hover{
+    background-color: whitesmoke;
+    opacity: 1;
+    color: black;
+}
+.reg:hover{
+    background-color: whitesmoke;
+    opacity: 1;
+    color: black;
+}
+
